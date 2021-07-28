@@ -1,0 +1,26 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\title{Moravec’s paradox}
+
+\author{Submitted by Dagesh kumar verma}
+
+\date{28th July 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{What is Moravec’s paradox?}
+
+Moravec’s paradox is a phenomenon surrounding the abilities of AI-powered tools. It observes that tasks humans find complex are easy to teach AI. Compared, that is, to simple, sensorimotor skills that come instinctively to humans. The principle was articulated by Hans Moravec, Rodney Brooks, Marvin Minsky and others in the 1980s. 
+
+\section{Moravec’s paradox and modern AI}
+Moravec’s paradox explains why AI capable of adult-level reasoning is old hat, but AI vision, listening, and learning is new and exciting.Indeed, things are changing.
+In the early days of artificial intelligence research, leading researchers often predicted that they would be able to create thinking machines in just a few decades. They had seen successful at writing programs that used logic, solved algebra and geometry problems and played games like checkers and chess. Rodney Brooks decided to build intelligent machines that had no cognition. Just sensing and action. This new direction, which he called Nouvelle AI was highly influential on robotics research and AI.
+\section{The biological basis of human skills}
+
+All human skills are implemented biologically, using machinery deigned by the process of natural selections. The older a skill is, the more time natural selection has had to improve he design. He says we should expect skills that appear effortless to be difficult to reverse-engineer, but skills that require effort may not necessarily be hard to engineer at all.
+
+\end{document}
